@@ -1,0 +1,3 @@
+firulais.txt
+
+Dentro del .gitignore escribo los archivos que quiero que el programa ignore. No lo va a tener en cuenta para nuevos commits/versiones y no va a aparecer cuando lo suba a la nube
